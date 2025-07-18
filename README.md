@@ -1,2 +1,1 @@
-# magatron-site
-magatron-site
+# MAGATron Next.js Website
